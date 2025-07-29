@@ -14,6 +14,8 @@ price=285.8
 # boolean
 # none 
 
+float = float("3.14")
 print(type(name))
 print(type(age))
 print(type(price))
+print(type(float))
